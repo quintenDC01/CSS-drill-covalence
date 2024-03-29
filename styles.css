@@ -1,0 +1,46 @@
+body {
+    font-family: 'poppins';
+    background-color: lightgrey;
+}
+h2, p, .readme-wrapper {
+    text-align: center;
+    }
+a {
+    text-decoration: none;
+    color: black; 
+}
+a:hover {
+    color: purple;
+    cursor: pointer;
+    font-weight: 600;
+}
+span {
+    color: red;
+    font-weight: 700;
+}
+.boxes {
+    margin-left: 3vh;
+    margin-bottom: 3vh;
+    padding: 1%;
+    border: solid red;
+    border-radius: 3vw;
+    width: 30em;
+}
+#box1 {
+    background: rgb(0, 0, 255);
+}
+#box2 {
+    background: rgba(0, 0, 200);
+}
+#box3 {
+    background: rgba(0, 0, 150);
+}
+#box4 {
+    background: rgba(0, 0, 100);
+}
+
+
+
+
+
+
